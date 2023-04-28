@@ -1,1 +1,3 @@
-Python_Program_1.py
+a=10
+b=9.2
+c="ajit"
