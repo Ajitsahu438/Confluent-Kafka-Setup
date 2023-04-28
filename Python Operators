@@ -9,3 +9,6 @@ print("Multiplcation of a * b: ", a*b)
 print("Normal Division of a / b: ", a/b)
 print("Integer Division of a // b: ", a//b)
 print("Reminder of a % b: ", a%b)
+
+#Calculate 2 power of 10
+Print(Power of a for exponent 2: ", a**2)
