@@ -1,6 +1,25 @@
-a=10
-b=9.2
-c="ajit"
+# My first Python Program
+
+a = 10
+b = 9.2
+c = "Shashank"
+d = True
+
+print("Value of a : ",a)
+print("Value of b : ",b)
+print("Value of c : ",c)
+print("Value of d : ",d)
+
+
+# ===== type(a)
+
+print("Data Type of a : ",type(a))
+print("Data Type of b : ",type(b))
+print("Data Type of c : ",type(c))
+print("Data Type of d : ",type(d))
+
+
+# how to convert one data type to another one or Type Casting
 
 
 var1 = 123
