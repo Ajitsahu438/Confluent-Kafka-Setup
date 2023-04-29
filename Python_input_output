@@ -1,0 +1,6 @@
+a = input()
+b = output()
+Print("value of a : ",a)
+Print("value of b : ",b)
+Print("Type of a : ",Type(a))
+Print("Type of b : ",Type(b))
