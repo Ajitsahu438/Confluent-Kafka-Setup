@@ -12,3 +12,12 @@ print("Reminder of a % b: ", a%b)
 
 #Calculate 2 power of 10
 Print(Power of a for exponent 2: ", a**2)
+
+#Python comparison operators
+
+print("Equal of a == b: ", a==b)
+print("Not Equal of a != b: ", a!=b)
+print("Less Then Equal of a <= b: ", a<=b)
+print("Greater Then Equal of a >= b: ", a>=b)
+print("Less Then of a < b: ", a<b)
+print("Greater Then of a > b: ", a>b)
