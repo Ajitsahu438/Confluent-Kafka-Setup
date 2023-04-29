@@ -1,5 +1,5 @@
-a = input()
-b = output()
+a = input("Enter value for a : ")
+b = input("Enter value for a : ")
 Print("value of a : ",a)
 Print("value of b : ",b)
 Print("Type of a : ",Type(a))
