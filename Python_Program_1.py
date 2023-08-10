@@ -45,3 +45,5 @@ var6 = 90
 var7 = float(var6)
 print("Value of var7 : ",var7)
 print("Data Type of var7 : ",type(var7))
+
+
