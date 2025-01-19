@@ -11,7 +11,7 @@ print("Value of c : ",c)
 print("Value of d : ",d)
 
 
-# ===== type(a)
+# Data type(a)
 
 print("Data Type of a : ",type(a))
 print("Data Type of b : ",type(b))
